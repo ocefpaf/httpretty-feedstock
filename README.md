@@ -5,7 +5,7 @@ Home: http://github.com/gabrielfalcao/httpretty
 
 Package license: MIT License
 
-Feedstock license: BSD
+Feedstock license: BSD 3-Clause
 
 Summary: HTTP client mock for Python
 
@@ -69,6 +69,7 @@ Terminology
 
 Current build status
 ====================
+
 Linux: [![Circle CI](https://circleci.com/gh/conda-forge/httpretty-feedstock.svg?style=svg)](https://circleci.com/gh/conda-forge/httpretty-feedstock)
 OSX: [![TravisCI](https://travis-ci.org/conda-forge/httpretty-feedstock.svg?branch=master)](https://travis-ci.org/conda-forge/httpretty-feedstock) 
 Windows: [![AppVeyor](https://ci.appveyor.com/api/projects/status/github/conda-forge/httpretty-feedstock?svg=True)](https://ci.appveyor.com/project/conda-forge/httpretty-feedstock/branch/master)
