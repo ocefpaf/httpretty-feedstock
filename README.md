@@ -3,11 +3,11 @@ About httpretty
 
 Home: http://github.com/gabrielfalcao/httpretty
 
-Package license: MIT License
+Package license: MIT
 
 Feedstock license: BSD 3-Clause
 
-Summary: HTTP client mock for Python
+Summary: HTTP client mock for Python.
 
 
 
